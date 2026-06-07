@@ -154,7 +154,7 @@ Foi desenvolvida a página principal contendo:
 
 ### Resultado
 
-![Página Inicial](docs/images/homepage1.png)
+![Página Inicial](docs/images/paginainicial.png)
 
 ---
 
