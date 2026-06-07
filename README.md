@@ -89,10 +89,22 @@ Faça o download e instale o editor.
 Caso utilize Git:
 
 ```bash
-git clone (https://github.com/Ghopuser45/Mini-Projeto-Framework-CSS-Loja-GameZone.git)
+git clone https://github.com/Ghopuser45/Mini-Projeto-Framework-CSS-Loja-GameZone.git
 ```
 
-Ou faça o download dos arquivos compactados.
+## Acessar a Pasta do Projeto
+
+```bash
+cd Mini-Projeto-Framework-CSS-Loja-GameZone
+```
+
+## Abrir o Projeto no Visual Studio Code
+
+```bash
+code .
+```
+
+Caso não utilize o git, você pode fazer o download dos arquivos compactados na página do repositório.
 
 ---
 
