@@ -11,4 +11,8 @@ O site possui páginas dedicadas a periféricos, jogos e consoles, além de uma 
 
 ## Objetivo
 
-Desenvolver um site responsivo para uma loja gamer utilizando tecnologias front-end, aplicando conceitos de HTML5, Bootstrap e design responsivo.
+Desenvolver um site responsivo para uma loja gamer utilizando tecnologias front-end, aplicando conceitos de HTML5, Bootstrap como única framework e design responsivo.
+
+## Softwares Utilizados
+
+
