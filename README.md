@@ -279,8 +279,4 @@ A utilização do Bootstrap facilitou a implementação de componentes modernos 
 
 Os resultados obtidos demonstram que os objetivos foram alcançados com sucesso, resultando em uma aplicação organizada, funcional e visualmente agradável.
 
-- Gustavo Henrique
-- Integrantes do grupo
-
-
 
