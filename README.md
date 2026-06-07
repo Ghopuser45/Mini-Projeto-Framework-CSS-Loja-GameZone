@@ -154,7 +154,7 @@ Foi desenvolvida a página principal contendo:
 
 ### Resultado
 
-📷 Inserir imagem da página inicial
+![Página Inicial](Imagens para o relato de implementação WEB/homepage1.png)
 
 ---
 
