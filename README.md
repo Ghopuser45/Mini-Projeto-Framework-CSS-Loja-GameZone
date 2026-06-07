@@ -174,11 +174,21 @@ Cada página apresenta:
 
 ### Resultado
 
+- Página dos periféricos
+  
 ![Página Inicial](resultados/prints/perifericos.png)
 
+- Página dos jogos
+  
 ![Página Inicial](resultados/prints/jogos.png)
 
+- Página dos consoles
+
 ![Página Inicial](resultados/prints/consoles.png)
+
+- Exemplo de uso do modal para acessar os produtos da página de periféricos
+
+![Página Inicial](resultados/prints/modalperifericos.png)
 
 ---
 
@@ -195,7 +205,17 @@ Foi utilizado o componente Carousel do Bootstrap para apresentar os produtos.
 
 ### Resultado
 
+- Página dos produtos relacionados a periféricos
+  
 ![Página Inicial](resultados/prints/produtosperifericos.png)
+
+- Página dos produtos relacionados a jogos
+  
+![Página Inicial](resultados/prints/produtosjogos.png)
+
+- Página dos produtos relacionados a consoles
+
+![Página Inicial](resultados/prints/produtosconsoles.png)
 
 ---
 
@@ -211,7 +231,9 @@ A responsividade foi implementada utilizando:
 
 ### Resultado
 
-📷 Inserir imagem do site em modo responsivo
+- Exemplo da implementação de responsividade em dispositivos móveis
+
+![Página Inicial](resultados/prints/responsividadecelular.png)
 
 ---
 
