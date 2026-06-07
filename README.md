@@ -154,7 +154,7 @@ Foi desenvolvida a página principal contendo:
 
 ### Resultado
 
-![Página Inicial](docs/images/paginainicial.png)
+![Página Inicial](resultados/prints/paginainicial.png)
 
 ---
 
@@ -174,11 +174,11 @@ Cada página apresenta:
 
 ### Resultado
 
-📷 Inserir imagem da página de periféricos
+![Página Inicial](resultados/prints/perifericos.png)
 
-📷 Inserir imagem da página de jogos
+![Página Inicial](resultados/prints/jogos.png)
 
-📷 Inserir imagem da página de consoles
+![Página Inicial](resultados/prints/consoles.png)
 
 ---
 
@@ -195,7 +195,7 @@ Foi utilizado o componente Carousel do Bootstrap para apresentar os produtos.
 
 ### Resultado
 
-📷 Inserir imagem da página de produtos
+![Página Inicial](resultados/prints/produtosperifericos.png)
 
 ---
 
