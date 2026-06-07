@@ -3,7 +3,7 @@
 ## Grupo: Gustavo Henrique, Ian Oliveira, Isly do Nascimento, Kauan Pereira
 ## Tema: Frameworks CSS
 
-## Descrição do projeto
+## 📖 Descrição do projeto
 
 A GameZone é uma loja virtual fictícia voltada para o público gamer. O projeto foi desenvolvido utilizando HTML5 e Bootstrap 5 com o objetivo de criar uma interface moderna, organizada e responsiva para apresentação de produtos relacionados ao universo dos jogos eletrônicos.
 
@@ -38,15 +38,9 @@ Editor de código utilizado para o desenvolvimento do projeto.
 Download:
 https://code.visualstudio.com
 
-### Navegador Web
+### Navegador Web Brave
 
 Utilizado para testes e visualização do projeto.
-
-Exemplos:
-
-- Google Chrome
-- Mozilla Firefox
-- Microsoft Edge
 
 ---
 
@@ -55,7 +49,7 @@ Exemplos:
 - HTML5
 - Bootstrap 5.2
 - CSS (Classes Bootstrap)
-- JavaScript (Bootstrap Bundle)
+- JavaScript (Bootstrap Bundle) - Embora não tenham sido implementados scripts JavaScript próprios, foram utilizados componentes interativos do Bootstrap que dependem da biblioteca JavaScript disponibilizada pelo framework.
 
 ---
 
@@ -95,7 +89,7 @@ Faça o download e instale o editor.
 Caso utilize Git:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone (https://github.com/Ghopuser45/Mini-Projeto-Framework-CSS-Loja-GameZone.git)
 ```
 
 Ou faça o download dos arquivos compactados.
