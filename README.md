@@ -234,7 +234,6 @@ A responsividade foi implementada utilizando:
 - Exemplo da implementação de responsividade em dispositivos móveis
 
 <img src="resultados/prints/responsividadecelular.png" width="300">
----
 
 ## Etapa 6 - Testes
 
@@ -279,10 +278,6 @@ O desenvolvimento da GameZone permitiu aplicar conhecimentos de HTML5, Bootstrap
 A utilização do Bootstrap facilitou a implementação de componentes modernos como Navbar, Carousel, Modal, Cards e Grid System, além de contribuir para a responsividade do site.
 
 Os resultados obtidos demonstram que os objetivos foram alcançados com sucesso, resultando em uma aplicação organizada, funcional e visualmente agradável.
-
----
-
-# 👨‍💻 Autor(es)
 
 - Gustavo Henrique
 - Integrantes do grupo
