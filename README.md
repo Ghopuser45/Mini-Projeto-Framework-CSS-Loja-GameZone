@@ -233,7 +233,7 @@ A responsividade foi implementada utilizando:
 
 - Exemplo da implementação de responsividade em dispositivos móveis
 
-<img src="resultados/prints/responsividadecelular.png" width="300"
+<img src="resultados/prints/responsividadecelular.png" width="300">
 ---
 
 ## Etapa 6 - Testes
