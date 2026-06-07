@@ -15,4 +15,9 @@ Desenvolver um site responsivo para uma loja gamer utilizando tecnologias front-
 
 ## Softwares Utilizados
 
+Visual Studio Code
+
+Editor de código utilizado para o desenvolvimento do projeto.
+
+
 
