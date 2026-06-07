@@ -110,7 +110,7 @@ Caso não utilize o git, você pode fazer o download dos arquivos compactados na
 
 ## Passo 3 - Abrir o Projeto
 
-Abra a pasta GameZone no Visual Studio Code.
+Abra a pasta Mini-Projeto-Framework-CSS-Loja-GameZone no Visual Studio Code.
 
 ---
 
